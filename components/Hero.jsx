@@ -22,7 +22,7 @@ export default function Hero() {
         </div>
 
         <Image
-          src="/images/phone.png"
+          src="/images/Phone.png"
           alt="Tampilan aplikasi StudyTrack di ponsel"
           width={303}
           height={530}
