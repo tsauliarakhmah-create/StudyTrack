@@ -22,7 +22,7 @@ export default function Fitur() {
   return (
     <section
       id="fitur"
-      className="mx-auto max-w-[1060px] px-5 py-16 md:px-8 md:py-24"
+      className="mx-auto max-w-[1060px] px-5 py-20 md:px-8 md:py-40"
     >
       <div className="mx-auto mb-12 flex max-w-[924px] flex-col items-center gap-4 text-center">
         <h2 className="heading-shadow text-[32px] leading-[48px] font-semibold">

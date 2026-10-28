@@ -23,7 +23,7 @@ const steps = [
 
 export default function CaraKerja() {
   return (
-    <section id="cara-kerja" className="px-5 py-16 md:px-8 md:py-24">
+    <section id="cara-kerja" className="px-5 py-20 md:px-8 md:py-40">
       <h2 className="heading-shadow mb-12 text-center text-[32px] leading-[48px] font-semibold">
         How It Works
       </h2>
