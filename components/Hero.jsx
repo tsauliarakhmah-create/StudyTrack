@@ -3,7 +3,7 @@ import Button from "@/components/Button";
 
 export default function Hero() {
   return (
-    <section className="px-5 pt-12 pb-20 md:px-8 md:pt-16 md:pb-32">
+    <section className="px-5 pt-20 pb-20 md:px-8 md:pt-28 md:pb-40"S>
       <div className="mx-auto flex max-w-6xl flex-col items-center gap-12 md:flex-row md:justify-between">
         <div className="flex flex-1 flex-col items-center gap-6 text-center">
           <h1 className="heading-shadow text-4xl leading-tight font-semibold md:text-6xl lg:text-[75px] lg:leading-[112px]">
